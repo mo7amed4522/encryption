@@ -17,4 +17,5 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Mobile app 
 you can encrypte your message
-![CHEESE!](./assets/2.png)
+![CHEESE!](./assets/1.png) ![CHEESE!](./assets/2.png) ![CHEESE!](./assets/3.png) ![CHEESE!](./assets/4.png) ![CHEESE!](./assets/5.png)
+![CHEESE!](./assets/6.png) ![CHEESE!](./assets/7.png)
